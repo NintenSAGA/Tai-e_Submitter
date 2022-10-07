@@ -52,7 +52,7 @@ Full example:
 ```bash
 TAI_E_USERNAME=jyywiki \
 TAI_E_PASSWORD=114514 \
-poetry run python ./SubmitHelper.py 1 -f 1515819.zip
+poetry run python ./SubmitHelper.py 1 -f 1919810.zip
 ```
 
 ### Target files
