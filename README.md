@@ -45,6 +45,16 @@ You must run it in one of the following manners:
 
 **The username and password should be assigned to environment variable `TAI_E_USERNAME` and `TAI_E_PASSWORD` seperately.**
 
+----
+
+Full example:
+
+```bash
+TAI_E_USERNAME=jyywiki \
+TAI_E_PASSWORD=114514 \
+poetry run python ./SubmitHelper.py 1 -f 1515819.zip
+```
+
 ### Target files
 
 `submit_files.json` constains a list of target files according to lab manuals (last updated at Oct. 7, 2022). 
