@@ -1,0 +1,10 @@
+[
+  ["LiveVariableAnalysis.java", "Solver.java", "IterativeSolver.java"],
+  ["ConstantPropagation.java, Solver.java, WorkListSolver.java"],
+  ["DeadCodeDetection.java"],
+  ["CHABuilder.java, InterConstantPropagation.java, InterSolver.java"],
+  ["Solver.java"],
+  ["Solver.java, _1CallSelector.java, _1ObjSelector.java, _1TypeSelector.java, _2CallSelector.java, _2ObjSelector.java, _2TypeSelector.java"],
+  ["InterConstantPropagation.java, InterSolver.java, ConstantPropagation.java"],
+  ["TaintAnalysiss.java, Solver.java"]
+]
