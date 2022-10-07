@@ -43,6 +43,8 @@ You must run it in one of the following manners:
 2. `SubmitHelper.py [1-8] -s path/to/my/src_dir`
    - Tell the src directory, and let the program do the zipping for you
 
+**The username and password should be assigned to environment variable `TAI_E_USERNAME` and `TAI_E_PASSWORD` seperately.**
+
 ### Target files
 
 `submit_files.json` constains a list of target files according to lab manuals (last updated at Oct. 7, 2022). 
