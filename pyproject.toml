@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "tai_e_submitter"}]
 
 [tool.poetry.dependencies]
-python = "3.10"
+python = "^3.10"
 requests = "^2.28.1"
 
 
